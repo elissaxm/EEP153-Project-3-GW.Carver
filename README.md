@@ -3,4 +3,5 @@ For context of our team's code and presentation overall, Guatemala is a country 
 
 As a result, a large portion of Guatemala faces malnutrition and food insecurity. 
 Therefore, our project seeks to assess how these constraints of budget in Guatemala affect food demand with differing types of households, with the consideration of how various regions in the nation are different in socioeconomic senses. 
+
 We hope you are find the contents of food demand in Guatemala in our code interesting!
